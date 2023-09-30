@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    background-color: #0e1d5eff;
+}
+
+p {
+    font-size: 30 px;
+    color: darkblue;
+}
+
+header {
+    background-color: white;
+    padding: 10 px;
+}
+
+header img {
+    height: 50 px;
+    width: 750 px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 60 px;
+}
+
+main p {
+    padding: 50 px;
+    background-color: white;
+    border-radius: 30 px;
+    margin: 20 px;
+}
+
+main img {
+    height: 200 px;
+    width: 700 px;
+}
+
+footer {
+    padding: 30 px;
+}
+
+.icons {
+    height: 50 px;
+    width: 50 px;
+}
+
+.marker{
+    height: 20 px;
+    width: 20 px;
+    margin: 10 px;
+}
